@@ -1,0 +1,8 @@
+strContent = File được hoàn thành bởi <b><i>Tùng Mod AoV</i></b>.\n<color=#FF0000>Youtube</color>: <b><i>Tùng Mod AoV</i></b>.\n<color=#00BFFF>Telegram</color>: Skill Mod Tùng Mod AoV.\n\nĐể được hỗ trợ, vui lòng nhắn qua Telegram.\nĐể tiếp tục vào game trải nghiệm mod, hãy nhấn \"Đã hiểu\"
+hasCancelBtn = true
+onConfirm = nil
+onCancel = https://www.youtube.com/@tungmodaov
+confirmStr = Đã hiểu
+cancelStr = Youtube Channel
+titleStr = Mod by YTB: <b><i>Tùng Mod AoV</i></b>
+isShowCloseBtn = true
