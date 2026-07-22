@@ -1,0 +1,8 @@
+strContent = File được hoàn thiện bởi: Gin TV\n<color=#FF0000>Youtube</color>: Gin TV\n\nĐể tiếp tục vào game trải nghiệm mod, hãy nhấn \"Đã hiểu\"\nLưu ý: không được xoá hoặc chỉnh sửa file sẽ bị lỗi reset mod.\n
+hasCancelBtn = true
+onConfirm = nil
+onCancel = https://www.youtube.com/@GinTVOfficial
+confirmStr = Đã hiểu
+cancelStr = Youtube Channel
+titleStr = Thông báo
+isShowCloseBtn = true
