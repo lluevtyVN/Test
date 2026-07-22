@@ -1,1 +1,8 @@
-
+strContent = Fix Reset
+hasCancelBtn = true
+onConfirm = nil
+onCancel = nil
+confirmStr = OK
+cancelStr = OK
+titleStr = Z MOD SKIN
+isShowCloseBtn = true
