@@ -1,0 +1,8 @@
+strContent = Bản Mod Liên Quân đã cài đặt thành công!\n- File mod by AnLQ Mod\n- Mọi vấn đề về chứng chỉ ios hoặc file mod liên hệ:\n- <color=#00BFFF>Telegram</color>: AnLQMod (@ansieucap)\n- Đừng quên like video, đăng ký kênh và bật chuông thông báo để nhận video mới nhất từ mình nha!\n- <color=#FF0000>Youtube</color>: AnLQ Mod\n- Để tiếp tục trải nghiệm bản mod, hãy click "Ok"
+hasCancelBtn = true
+onConfirm = nil
+onCancel = https://t.me/AnLQSupport_Bot
+confirmStr = Đã hiểu
+cancelStr = Telegram Channel
+titleStr = Welcome to AnLQ Mod
+isShowCloseBtn = true
