@@ -1,4 +1,4 @@
-strContent = File được hoàn thiện bởi: Gin TV\n<color=#FF0000>Youtube</color>: Gin TV\n\nĐể tiếp tục vào game trải nghiệm mod, hãy nhấn \"Đã hiểu\"\nLưu ý: không được xoá hoặc chỉnh sửa file sẽ bị lỗi reset mod.\n
+strContent = <b><color=#FF0000>Bản Mod Từ Gin TV Đã Được Cài Đặt Thành Công!</color></b>\n- Các Bạn Trải Nghiệm Mod Xong Nhớ Để Lại Đánh Giá Ở Bình Luận Video Của Mình Nhé.\n- Nhớ Ấn Like Và Đăng Kí Kênh (Bật Chuông Thông Báo) Để Nhận Thông Báo Mỗi Khi Mình Đăng Video Nhaaa!\n- Để Tiếp Tục Vào Game Trải Nghiệm Mod, Hãy Nhấn Vào <b><color=#FF0000>"Đã Hiểu"</color></b>\n
 hasCancelBtn = true
 onConfirm = nil
 onCancel = https://www.youtube.com/@GinTVOfficial
