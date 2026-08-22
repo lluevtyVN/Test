@@ -1,8 +1,8 @@
-strContent = File được hoàn thành bởi <b><i>Tùng Mod AoV</i></b>.\n<color=#FF0000>Youtube</color>: <b><i>Tùng Mod AoV</i></b>.\n<color=#00BFFF>Telegram</color>: Skill Mod Tùng Mod AoV.\n\nĐể được hỗ trợ, vui lòng nhắn qua <color=#00FFFF>Telegram</color>.\nĐể tiếp tục vào game trải nghiệm mod, hãy nhấn "Đã hiểu"
+strContent = Nội dung: File được hoàn thành bởi <b><i>TùngAoV TV</i></b>.\n<color=#FF0000>Youtuber</color>: <b><i>TùngAoV TV</i></b>.\n<color=#00BFFF>Telegram</color>: Skill File TùngAoV TV.\n\nĐể được hỗ trợ, vui lòng nhắn qua <color=#00BFFF>Telegram</color>.\nĐể tiếp tục vào game trải nghiệm, hãy nhấn "Đã hiểu"\n
 hasCancelBtn = true
 onConfirm = nil
-onCancel = https://www.youtube.com/@tungmodaov
+onCancel = https://youtube.com/@tungmodaov2
 confirmStr = Đã hiểu
 cancelStr = Youtube Channel
-titleStr = Mod by YTB: <b><i>Tùng Mod AoV</i></b>
+titleStr = File Trải Nghiệm by YTB: <b><i>TùngAoV TV</i></b>
 isShowCloseBtn = true
