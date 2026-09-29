@@ -1,4 +1,4 @@
-strContent = Nội dung: File được hoàn thành bởi <b><i>TùngAoV TV</i></b>.\n<color=#FF0000>Youtuber</color>: <b><i>TùngAoV TV</i></b>.\n<color=#00BFFF>Telegram</color>: Skill File TùngAoV TV.\n\nĐể được hỗ trợ, vui lòng nhắn qua <color=#00BFFF>Telegram</color>.\nĐể tiếp tục vào game trải nghiệm, hãy nhấn "Đã hiểu"\n
+strContent = File được hoàn thành bởi <b><i>TùngAoV TV</i></b>.\n<color=#FF0000>Youtuber</color>: <b><i>TùngAoV TV</i></b>.\n<color=#00BFFF>Telegram</color>: Skill File TùngAoV TV.\n\nĐể được hỗ trợ, vui lòng nhắn qua <color=#00BFFF>Telegram</color>.\nĐể tiếp tục vào game trải nghiệm, hãy nhấn "Đã hiểu"\n
 hasCancelBtn = true
 onConfirm = nil
 onCancel = https://youtube.com/@tungmodaov2
