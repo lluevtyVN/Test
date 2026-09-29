@@ -1,0 +1,8 @@
+strContent = File được hoàn thành bởi <b><i>BBang Mod</i></b>.\n<color=#FF0000>Youtuber</color>: <b><i>BBang Mod</i></b>.\n<color=#00BFFF>Telegram</color>: Skill File BBang Mod.\n\nĐể được hỗ trợ, vui lòng nhắn qua <color=#00BFFF>Telegram</color> (@modhacklq).\nĐể tiếp tục vào game trải nghiệm, hãy nhấn "Đã hiểu"\n
+hasCancelBtn = true
+onConfirm = nil
+onCancel = https://youtube.com/@bbangmoddd
+confirmStr = Đã hiểu
+cancelStr = Youtube Channel
+titleStr = File Trải Nghiệm by YTB: <b><i>BBang Mod</i></b>
+isShowCloseBtn = true
