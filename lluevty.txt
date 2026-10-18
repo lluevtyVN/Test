@@ -1,8 +1,8 @@
-strContent = Hello
+strContent = Mod by lluevtyVN
 hasCancelBtn = true
 onConfirm = nil
-onCancel = https://google.com
-confirmStr = OK
-cancelStr = Cancel
-titleStr = Title
-isShowCloseBtn = false
+onCancel = nil
+confirmStr = Đã hiểu
+cancelStr = Đã hiểu
+titleStr = lluevtyVN
+isShowCloseBtn = true
